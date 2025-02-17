@@ -1,3 +1,3 @@
 # LandingPage
 
-Tis project is made using HTML and CSS
+This is a travel website landingpage....
